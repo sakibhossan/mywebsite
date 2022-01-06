@@ -106,6 +106,19 @@ h1{
     padding-right: 10%;
     margin-top: 75px;
 }
+.next-code-start{width:50%;
+    padding-left: 5%;
+    margin-top: 5%;
+
+}
+.next-code img{
+    width:50%;
+    padding-left: 10%;
+    background-image: url(images/shapes/shape-7.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
 
 
 
