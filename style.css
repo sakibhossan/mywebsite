@@ -138,11 +138,24 @@ h1{
     margin-left: 20%;
     text-align: center;
     text-decoration: none;
-    text-transform: uppercase;
     
+    
+}
+footer h1 p{
+    text-align: center;
+   
+    
+
+}
+.command{
+    background-color: blue;
 }
 
 
+.text{
+    color:orange;
+    
+}
 
 
 
