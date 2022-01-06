@@ -127,6 +127,9 @@ h1{
     width:100%;
     padding-left:5%;
     margin-top: 5%;
+    background-image: url(images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 .decration{
     padding-left: 20%;
