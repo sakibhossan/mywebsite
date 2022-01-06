@@ -119,6 +119,30 @@ h1{
     background-size: cover;
 
 }
+.decration-text{
+    display:flex;
+    margin:0;
+}
+.decration-page img{
+    width:100%;
+    padding-left:5%;
+    margin-top: 5%;
+}
+.decration{
+    padding-left: 20%;
+    margin-top: 75px;
+    width: 100%;
+    
+}
+.align{
+    margin-left: 20%;
+    text-align: center;
+    text-decoration: none;
+    text-transform: uppercase;
+    
+}
+
+
 
 
 
