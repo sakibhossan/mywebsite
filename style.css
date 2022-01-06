@@ -1,0 +1,34 @@
+body{
+    font-family: 'Inter', sans-serif;
+    font-family: 'Rubik', sans-serif; 
+}
+h1{
+    font-size:50px;
+    border-left:3px solid tomato;
+    border-radius: 3px;
+}
+
+
+.smaller{
+    color:blue;
+}
+section{
+    display:flex;
+    
+}
+.programer{
+    width:50%;
+    padding-left:5%;
+}
+.programer img{width:60%;
+
+
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(orange,red);
+    padding: 10px 50px;
+    color:white;
+    font-weight: 600;
+    border-radius: 5px;
+}
